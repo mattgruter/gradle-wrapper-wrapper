@@ -27,3 +27,6 @@ source ~/.bashrc
 
 From now on you can just type `gradle ...` from whereever you are  and the correct gradle
 binary is exeucted. Happiness ensues!
+
+![Inception!](https://raw.github.com/mattgruter/gradle-wrapper-wrapper/master/inception.png)
+
