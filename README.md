@@ -1,5 +1,7 @@
 # Wrapping the gradle wrapper
 
+**Checkout [gdub](https://github.com/dougborg/gdub), a more sophisticated solution to the same problem.**
+
 Tired of typing
 ```bash
 ../../gradlew build
